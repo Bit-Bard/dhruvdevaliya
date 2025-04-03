@@ -58,3 +58,25 @@
   <li>Inida State wise Temperaature</li>
 </ul>
 <p><b>Note:</b>You can find Datasets in folder <i>Raw_Data</i> named as archives</p>
+<h3>Architecture & Workflow </h3>
+<h2>[Data Collection] → [Raw Data] → [Data Cleaning] → [EDA] → [Feature Engineering] → [Advance featyure Engineering] → [Model Training] → [Tunning] → [Prediction] </h2>
+
+<h3>Machine Learning Model</h3>
+<ul>
+  <li>Random Forest (Select through auto sklearn)</li>
+  <li>Evaluation Metrics:</li>
+  <ol>
+    <li>MAE: 0.0945</li>
+    <li>RMSE: 0.2379</li>
+    <li><b>R² Score: 99.5% </b></li>
+  </ol>
+</ul>
+
+<h3> Download Requirement.txt for module installation</h3>
+
+
+
+
+
+
+
