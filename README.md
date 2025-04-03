@@ -57,4 +57,4 @@
   <li>India State wise and District wise Weather Data</li>
   <li>Inida State wise Temperaature</li>
 </ul>
-<p><b>Note:</b>You can find Datasets in folder <i>Raw_Data</i> named as archive</p>
+<p><b>Note:</b>You can find Datasets in folder <i>Raw_Data</i> named as archives</p>
