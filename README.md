@@ -71,10 +71,28 @@
     <li><b>R² Score: 99.5% </b></li>
   </ol>
 </ul>
+<h2>Prediction:</h2>
+<p> This is the interface of our GUI a user can simply put value in it and findout whether it comes under UIH or not</p>
+
+
+
 
 <h3> Download Requirement.txt for module installation</h3>
+<h3> run the model : <b> streamlit run gui.py  </b></h3>
 
-
+<h2>Summary</h2>
+<ul>
+  <li>Use reuirements.txt for module installation </li> 
+  <li>In Raw_Data folder all the raw data collected from diff source is there <b>Data collection</b></li>
+  <li>Our next Step was Data cleaning to handle missing values by mean, mode, median and many more </li>
+  <li>After Handling values we merge all the Data and store it in one csv file Name: engineered_features which is in folder : preprocessed data</li>
+  <li>Now Feature Eng. came into process to find trend in our data. we find the tren by using various charts and graphs after that we take it advacned one  </li>
+  <li>1after finding the trend we done the feature scalling , normalization to overcome the problem of Overfitting </li>
+  <li>We store our final data in csv file : consolidated_features</li>
+  <li>Model evaluation : by autosklearn we find the best alg which is suitable for it </li>
+  <li>our second last step is tunning our model</li>
+  <li>last but not list Prediction our score is 99.5 which is pretty good </li>
+</ul
 
 
 
