@@ -2,6 +2,9 @@
 <h2> <u>Topic:</u> <i>Urban Heat Islands: The Rising Temperature Crisis in Indian Cities</i></h2>
 <h3> <u>Tagline </u>: Predicting Urban Heat Islands using AI and Satellite Data </h3>
 
+<h3><b>Impact</b></h3>
+<p>"With an accuracy of 99.5%, our model can help optimize green cover distribution, reduce heat-related illnesses, and guide urban cooling strategies."</p>
+
 <H3><b>Problem Statement</b></H3>
 <p>"Indian cities are experiencing rising temperatures due to increased urbanization. This project aims to predict whether an area will become a UHI in the future based on weather, air quality, and urbanization data, Help city planners make informed decisions about urban heat risks."</p>
 
@@ -14,6 +17,12 @@
 </ul>
 
 <h3> <b> Key Features in the Model</b></h3>
+<ul>
+<li>Temperature Anomalies (Difference between max & min temp)</li>
+<li>Air Quality Index (AQI) (PM2.5, NO2, SO2)</li>
+<li>Seasonal Data (Extracted Year, Month, and Season)</li>
+<li>Urbanization Levels (Population density, land use)</li>
+</ul>
 <ol>
   <li>Predict Future Urban Heat Islands (UHIs)</li>
   <ul>
@@ -39,3 +48,13 @@
 
 <h2> Why This Matter ?</h2>
 <p>This project goes beyond just predictions—it provides real-time, data-driven recommendations that can shape climate resilience strategies. By making this information accessible, we contribute to a sustainable, heat-resilient future for urban India! </p>
+
+<h3><u>Datasets Used</u></h3>
+<ul>
+  <li>India climate data</li>
+  <li>India Air Quality</li>
+  <li>Urban Air Pollution</li>
+  <li>India State wise and District wise Weather Data</li>
+  <li>Inida State wise Temperaature</li>
+</ul>
+<p><b>Note:</b>You can find Datasets in folder <i>Raw_Data</i> named as archive</p>
