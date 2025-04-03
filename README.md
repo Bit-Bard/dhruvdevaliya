@@ -73,7 +73,10 @@
 </ul>
 <h2>Prediction:</h2>
 <p> This is the interface of our GUI a user can simply put value in it and findout whether it comes under UIH or not</p>
+![INPUT](Image URL)
 
+<p> This is the intergace our GUI done (output)</p>
+![Predicted value(Image URL)
 
 
 
