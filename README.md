@@ -73,10 +73,10 @@
 </ul>
 <h2>Prediction:</h2>
 <p> This is the interface of our GUI a user can simply put value in it and findout whether it comes under UIH or not</p>
-![INPUT](Image URL)
+![INPUT](https://github.com/Bit-Bard/dhruvdevaliya/blob/main/Urban_heat_island/Predictions/Predicted_output.png)
 
 <p> This is the intergace our GUI done (output)</p>
-![Predicted value(Image URL)
+![Predicted value([Image URL](https://github.com/Bit-Bard/dhruvdevaliya/blob/main/Urban_heat_island/Predictions/Input.jpg))
 
 
 
