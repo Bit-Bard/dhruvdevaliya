@@ -81,7 +81,7 @@
 
 
 <h3> Download Requirement.txt for module installation</h3>
-<h3> run the model : <b> streamlit run gui.py  </b></h3>
+<h3> run the model : <b> streamlit run interface.py  </b></h3>
 
 <h2>Summary</h2>
 <ul>
